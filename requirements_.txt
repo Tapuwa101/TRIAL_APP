@@ -1,0 +1,14 @@
+# Focused app deps
+streamlit>=1.34
+pandas>=2.0
+numpy>=1.24
+
+# Geospatial hex grids
+h3==3.7.6
+
+# Visuals
+plotly>=5.20
+folium>=0.15
+
+# Trend tests
+pymannkendall>=1.4
